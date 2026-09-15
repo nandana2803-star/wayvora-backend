@@ -1,0 +1,19 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.7,<3.0
+numpy>=2.3,<3.0
+pandas>=2.3.3,<3.0
+scikit-learn==1.8.0
+joblib>=1.5,<2.0
+xgboost>=2.0,<4.0
+catboost>=1.2.10,<2.0
+python-multipart
+pypdf
+python-docx
+
+
+#cd 'F:\Sysbz_projects\ML TASK\c&c_recommendation\backend'
+#.\.venv\Scripts\python.exe -m uvicorn app.main:app --reload --port 8000\
+
+#cd 'F:\Sysbz_projects\ML TASK\c&c_recommendation\frontend'
+#node .\node_modules\vite\bin\vite.js

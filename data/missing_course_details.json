@@ -1,0 +1,443 @@
+[
+  {
+    "model_course_name": "BEng Computer Engineering",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BEng Mechanical Engineering",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BEng Software Engineering",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BFA Fashion Design",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Advertising",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Artificial Intelligence",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Education",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Educational Psychology",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc International Relations",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Journalism",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Media Studies",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "BSc Psychology",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Accounting",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Architecture",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Biology",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Corporate Law",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Finance",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Law",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Microbiology",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Sociology",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Certificate in Urban Design",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Animation",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Construction Management",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Data Science",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Early Childhood Education",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Film Production",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Medicine",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Political Science",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Public Health",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "Graduate Diploma in Robotics Engineering",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "LLB International Law",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MBA Business Administration",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Chemistry",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Cybersecurity",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Dentistry",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Economics",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Graphic Design",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Interior Design",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Journalism",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Machine Learning",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Nursing",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "MSc Physics",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Biochemistry",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Civil Engineering",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Computer Science",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Early Childhood Education",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Pharmacy",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Public Relations",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  },
+  {
+    "model_course_name": "PhD Urban Design",
+    "degree_name": null,
+    "program_level": null,
+    "field": null,
+    "eligible_stream_or_degree": null,
+    "source_url": null,
+    "verified": false
+  }
+]

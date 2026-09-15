@@ -1,0 +1,1048 @@
+[
+  {
+    "careers": {
+      "request": {
+        "field_filter": "all",
+        "hobbies": [],
+        "grades": {
+          "grade_math": 0,
+          "grade_science": 0,
+          "grade_lang": 0,
+          "grade_social": 0,
+          "grade_cs": 0
+        },
+        "scores": {
+          "score_analytical": 0,
+          "score_numeric": 0,
+          "score_verbal": 0,
+          "score_creative": 0,
+          "score_social": 0
+        }
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "career": "Software Developer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Mathematics | Computer Science",
+            "degree": "B.Tech Computer Science Engineering | B.Sc Computer Science | BCA",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b97L\u2013\u20b950L/yr",
+            "demand_score": 9,
+            "future_scope": "Demand stays strong overall, but AI coding assistants are raising the bar \u2014 routine coding work is being automated while system design, AI/ML integration, and senior engineering skills are in higher demand than ever.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "AWS Solutions Architect",
+            "career_levels": "Junior Software Engineer (0-2 yrs) \u2192 Software Engineer (2-5 yrs) \u2192 Senior Software Engineer (5-10 yrs) \u2192 Lead / Principal Software Engineer (10+ yrs)",
+            "top_companies": "Google | Microsoft | Amazon | TCS | Infosys",
+            "entrance_exams": "GATE",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 2,
+          "career": "Web Developer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | BCA",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Strong hiring outlook driven by enterprise digital transformation and India's growing role as a global tech delivery hub, with a premium on AI/ML and cloud skills.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "Meta Full-Stack Developer Certificate (Coursera)",
+            "career_levels": "Junior Full Stack Web Developer (0-2 yrs) \u2192 Full Stack Web Developer (2-5 yrs) \u2192 Senior Full Stack Web Developer (5-10 yrs) \u2192 Lead / Principal Full Stack Web Developer (10+ yrs)",
+            "top_companies": "Amazon | Zomato | Freshworks | TCS | Infosys",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 3,
+          "career": "School Teacher",
+          "details": {
+            "Category": "Education",
+            "required_stream": "Arts / Humanities / Science (PCM) / Science (PCB)",
+            "required_subjects_12th": "Education",
+            "degree": "B.Ed",
+            "alternative_path": "Subject-matter expertise with a B.Ed/teaching certification; some EdTech and coaching roles hire on demonstrated teaching ability alone",
+            "skills_required": "Microsoft Excel | Communication | Time Management",
+            "government_jobs": "KVS | NVS | State Govt Schools | NCERT | UGC | University teaching posts",
+            "study_abroad_courses": "MEd Educational Leadership | MS Instructional Design | MA Education Policy | EdD",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b93L\u2013\u20b912L/yr",
+            "demand_score": 6,
+            "future_scope": "Stable, essential demand nationwide, though pay and working conditions vary widely between government and private schools.",
+            "analytical_required": 0.6,
+            "numerical_required": 0.5,
+            "creativity_required": 0.6,
+            "communication_required": 0.9,
+            "social_required": 0.8,
+            "attention_required": 0.6,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Ed / Master's degree in the subject taught",
+            "phd_options": "PhD in Education or the relevant subject discipline (required for university professorships)",
+            "certifications": "B.Ed (Bachelor of Education) is generally mandatory for school teaching roles",
+            "career_levels": "Junior School Teacher (0-2 yrs) \u2192 School Teacher (2-5 yrs) \u2192 Senior School Teacher (5-10 yrs) \u2192 Lead / Principal School Teacher (10+ yrs)",
+            "top_companies": "Delhi Public School Society | Kendriya Vidyalaya Sangathan | Ryan International Group | DAV Public Schools | Sarvodaya Vidyalaya",
+            "entrance_exams": "CTET / State TET (for school teaching) | UGC NET (for college/university teaching)",
+            "key_skills": "Microsoft Excel | Communication | Time Management"
+          }
+        },
+        {
+          "rank": 4,
+          "career": "Machine Learning Engineer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Mathematics | Computer Science",
+            "degree": "B.Tech Computer Science Engineering | M.Tech AI/ML",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b97L\u2013\u20b950L/yr",
+            "demand_score": 9,
+            "future_scope": "Among the hottest roles in tech right now, fueled by the generative AI boom; demand for engineers who can deploy and scale ML/AI systems in production is outpacing supply.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "TensorFlow Developer Certificate | AWS Certified Machine Learning Specialty",
+            "career_levels": "Junior Machine Learning Engineer (0-2 yrs) \u2192 Machine Learning Engineer (2-5 yrs) \u2192 Senior Machine Learning Engineer (5-10 yrs) \u2192 Lead / Principal Machine Learning Engineer (10+ yrs)",
+            "top_companies": "Google DeepMind | OpenAI | Microsoft | NVIDIA | Amazon",
+            "entrance_exams": "GATE",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 5,
+          "career": "DevOps Engineer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | B.Tech Information Technology",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Strong and growing demand as more companies adopt cloud-native architectures and CI/CD practices; platform engineering and AI-driven automation are reshaping the role.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "AWS Solutions Architect",
+            "career_levels": "Junior DevOps Engineer (0-2 yrs) \u2192 DevOps Engineer (2-5 yrs) \u2192 Senior DevOps Engineer (5-10 yrs) \u2192 Lead / Principal DevOps Engineer (10+ yrs)",
+            "top_companies": "Amazon Web Services | Microsoft | Red Hat | TCS | Infosys",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        }
+      ]
+    },
+    "courses": {
+      "request": {
+        "field_filter": "all",
+        "grade_math": 0,
+        "grade_science": 0,
+        "grade_lang": 0,
+        "grade_social": 0,
+        "grade_cs": 0,
+        "score_analytical": 0,
+        "score_numeric": 0,
+        "score_verbal": 0,
+        "score_creative": 0,
+        "score_social": 0,
+        "hobby_coding": 0,
+        "hobby_gaming": 0,
+        "hobby_reading": 0,
+        "hobby_writing": 0,
+        "hobby_music": 0,
+        "hobby_drawing_art": 0,
+        "hobby_sports": 0,
+        "hobby_cooking": 0,
+        "hobby_photography": 0,
+        "hobby_travel": 0,
+        "hobby_science_experiments": 0,
+        "hobby_volunteering": 0,
+        "hobby_debating": 0,
+        "hobby_robotics": 0,
+        "hobby_fashion": 0,
+        "hobby_business_trading": 0
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "course": "MSc Economics",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 2,
+          "course": "Graduate Diploma in Political Science",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 3,
+          "course": "Graduate Certificate in Sociology",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 4,
+          "course": "Graduate Diploma in Data Science",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 5,
+          "course": "MSc Machine Learning",
+          "details": null,
+          "details_available": false
+        }
+      ]
+    }
+  },
+  {
+    "careers": {
+      "request": {
+        "field_filter": "all",
+        "hobbies": [
+          "hobby_coding",
+          "hobby_robotics"
+        ],
+        "grades": {
+          "grade_math": 35,
+          "grade_science": 35,
+          "grade_lang": 35,
+          "grade_social": 35,
+          "grade_cs": 35
+        },
+        "scores": {
+          "score_analytical": 35,
+          "score_numeric": 35,
+          "score_verbal": 35,
+          "score_creative": 35,
+          "score_social": 35
+        }
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "career": "IT Support Specialist",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "Diploma in Computer Applications | BCA",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Outlook remains robust as businesses across every sector build in-house tech teams, though automation is raising the bar for higher-order technical and system-design skills.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "CompTIA A+",
+            "career_levels": "Junior IT Support Specialist (0-2 yrs) \u2192 IT Support Specialist (2-5 yrs) \u2192 Senior IT Support Specialist (5-10 yrs) \u2192 Lead / Principal IT Support Specialist (10+ yrs)",
+            "top_companies": "TCS | Infosys | HCLTech | Wipro | IBM",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 2,
+          "career": "Technical Consultant",
+          "details": null
+        },
+        {
+          "rank": 3,
+          "career": "Ethical Hacker",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | B.Tech Information Technology",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b97L\u2013\u20b950L/yr",
+            "demand_score": 9,
+            "future_scope": "Demand is surging as cyberattacks and data breaches rise sharply; India faces a significant shortage of trained cybersecurity professionals relative to industry need.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "Cisco CCNA",
+            "career_levels": "Junior Cybersecurity Analyst (0-2 yrs) \u2192 Cybersecurity Analyst (2-5 yrs) \u2192 Senior Cybersecurity Analyst (5-10 yrs) \u2192 Lead / Principal Cybersecurity Analyst (10+ yrs)",
+            "top_companies": "IBM Security | Cisco | Wipro | TCS | Palo Alto Networks",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 4,
+          "career": "Game Tester",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | BCA",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Outlook remains robust as businesses across every sector build in-house tech teams, though automation is raising the bar for higher-order technical and system-design skills.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "ISTQB Certified Tester",
+            "career_levels": "Junior QA / Test Engineer (0-2 yrs) \u2192 QA / Test Engineer (2-5 yrs) \u2192 Senior QA / Test Engineer (5-10 yrs) \u2192 Lead / Principal QA / Test Engineer (10+ yrs)",
+            "top_companies": "TCS | Infosys | Cognizant | Capgemini | Accenture",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 5,
+          "career": "Esports Player",
+          "details": {
+            "Category": "Sports",
+            "required_stream": "Any stream",
+            "required_subjects_12th": "Gaming Strategy",
+            "degree": "No formal degree required",
+            "alternative_path": "Competitive playing/athletic career transitioning into coaching, without needing a formal sports science degree",
+            "skills_required": "Communication",
+            "government_jobs": "limited",
+            "study_abroad_courses": "MS Sports Science | MS Kinesiology | MBA Sports Management | MS Exercise Physiology",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b93L\u2013\u20b915L/yr",
+            "demand_score": 5,
+            "future_scope": "A fast-growing but still-maturing field in India, with rising sponsorship and prize pools, though sustainable long-term careers remain concentrated among top-tier players.",
+            "analytical_required": 0.4,
+            "numerical_required": 0.3,
+            "creativity_required": 0.5,
+            "communication_required": 0.7,
+            "social_required": 0.7,
+            "attention_required": 0.5,
+            "persistence_required": 0.3,
+            "postgraduate_options": "M.P.Ed (Master of Physical Education) | Master's in Sports Management/Sports Science",
+            "phd_options": "PhD in Sports Science/Physical Education \u2014 relevant mainly for academic and high-performance research roles",
+            "certifications": "National Sports Federation / international body coaching or officiating certification (e.g. NIS Patiala diploma) is important",
+            "career_levels": "Junior Esports Player (0-2 yrs) \u2192 Esports Player (2-5 yrs) \u2192 Senior Esports Player (5-10 yrs) \u2192 Lead / Principal Esports Player (10+ yrs)",
+            "top_companies": "Team SouL | Global Esports | S8UL Esports | GodLike Esports",
+            "entrance_exams": "No formal entrance exam; selection via tournament performance/rankings",
+            "key_skills": "Communication"
+          }
+        }
+      ]
+    },
+    "courses": {
+      "request": {
+        "field_filter": "all",
+        "grade_math": 35,
+        "grade_science": 35,
+        "grade_lang": 35,
+        "grade_social": 35,
+        "grade_cs": 35,
+        "score_analytical": 35,
+        "score_numeric": 35,
+        "score_verbal": 35,
+        "score_creative": 35,
+        "score_social": 35,
+        "hobby_coding": 1,
+        "hobby_gaming": 0,
+        "hobby_reading": 0,
+        "hobby_writing": 0,
+        "hobby_music": 0,
+        "hobby_drawing_art": 0,
+        "hobby_sports": 0,
+        "hobby_cooking": 0,
+        "hobby_photography": 0,
+        "hobby_travel": 0,
+        "hobby_science_experiments": 0,
+        "hobby_volunteering": 0,
+        "hobby_debating": 0,
+        "hobby_robotics": 1,
+        "hobby_fashion": 0,
+        "hobby_business_trading": 0
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "course": "MSc Economics",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 2,
+          "course": "Graduate Diploma in Political Science",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 3,
+          "course": "Graduate Certificate in Sociology",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 4,
+          "course": "BSc Advertising",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 5,
+          "course": "BSc Journalism",
+          "details": null,
+          "details_available": false
+        }
+      ]
+    }
+  },
+  {
+    "careers": {
+      "request": {
+        "field_filter": "all",
+        "hobbies": [],
+        "grades": {
+          "grade_math": 70,
+          "grade_science": 70,
+          "grade_lang": 70,
+          "grade_social": 70,
+          "grade_cs": 70
+        },
+        "scores": {
+          "score_analytical": 70,
+          "score_numeric": 70,
+          "score_verbal": 70,
+          "score_creative": 70,
+          "score_social": 70
+        }
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "career": "IT Project Manager",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | MBA",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Growth is being pushed by expanding SaaS, fintech, and e-commerce platforms in India, alongside rising global demand for AI and data specialists.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "PMP (Project Management)",
+            "career_levels": "Junior IT Project Manager (0-2 yrs) \u2192 IT Project Manager (2-5 yrs) \u2192 Senior IT Project Manager (5-10 yrs) \u2192 Lead / Principal IT Project Manager (10+ yrs)",
+            "top_companies": "TCS | Infosys | Accenture | Capgemini | IBM",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        },
+        {
+          "rank": 2,
+          "career": "Training Manager",
+          "details": null
+        },
+        {
+          "rank": 3,
+          "career": "Accountant",
+          "details": null
+        },
+        {
+          "rank": 4,
+          "career": "Game Developer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Computer Science",
+            "degree": "B.Tech Computer Science Engineering | B.Sc Game Design",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 9,
+            "future_scope": "Strong hiring outlook driven by enterprise digital transformation and India's growing role as a global tech delivery hub, with a premium on AI/ML and cloud skills.",
+            "analytical_required": 0.9,
+            "numerical_required": 0.8,
+            "creativity_required": 0.6,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.8,
+            "persistence_required": 0.6,
+            "postgraduate_options": "M.Tech / M.S. in Computer Science or a related specialization | MBA (Technology/IT Management)",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "Unity Certified Programmer | Unreal Engine Developer Certification",
+            "career_levels": "Junior Game Developer (0-2 yrs) \u2192 Game Developer (2-5 yrs) \u2192 Senior Game Developer (5-10 yrs) \u2192 Lead / Principal Game Developer (10+ yrs)",
+            "top_companies": "Ubisoft | Nazara Technologies | Zynga | Rockstar Games | Nazara Games",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Python | SQL | System Design | Git/GitHub | Docker | Communication | Critical Thinking | Time Management | Python | JavaScript"
+          }
+        }
+      ]
+    },
+    "courses": {
+      "request": {
+        "field_filter": "all",
+        "grade_math": 70,
+        "grade_science": 70,
+        "grade_lang": 70,
+        "grade_social": 70,
+        "grade_cs": 70,
+        "score_analytical": 70,
+        "score_numeric": 70,
+        "score_verbal": 70,
+        "score_creative": 70,
+        "score_social": 70,
+        "hobby_coding": 0,
+        "hobby_gaming": 0,
+        "hobby_reading": 0,
+        "hobby_writing": 0,
+        "hobby_music": 0,
+        "hobby_drawing_art": 0,
+        "hobby_sports": 0,
+        "hobby_cooking": 0,
+        "hobby_photography": 0,
+        "hobby_travel": 0,
+        "hobby_science_experiments": 0,
+        "hobby_volunteering": 0,
+        "hobby_debating": 0,
+        "hobby_robotics": 0,
+        "hobby_fashion": 0,
+        "hobby_business_trading": 0
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "course": "Graduate Diploma in Medicine",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 2,
+          "course": "MSc Nursing",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 3,
+          "course": "MSc Dentistry",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 4,
+          "course": "PhD Pharmacy",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 5,
+          "course": "Graduate Diploma in Public Health",
+          "details": null,
+          "details_available": false
+        }
+      ]
+    }
+  },
+  {
+    "careers": {
+      "request": {
+        "field_filter": "Law & Government",
+        "hobbies": [
+          "hobby_coding",
+          "hobby_robotics"
+        ],
+        "grades": {
+          "grade_math": 85,
+          "grade_science": 85,
+          "grade_lang": 85,
+          "grade_social": 85,
+          "grade_cs": 85
+        },
+        "scores": {
+          "score_analytical": 85,
+          "score_numeric": 85,
+          "score_verbal": 85,
+          "score_creative": 85,
+          "score_social": 85
+        }
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "career": "Social Welfare Officer",
+          "details": null
+        },
+        {
+          "rank": 2,
+          "career": "Policy Analyst",
+          "details": {
+            "Category": "Government",
+            "required_stream": "Arts / Humanities / Commerce",
+            "required_subjects_12th": "Economics | Political Science",
+            "degree": "Master of Public Policy",
+            "alternative_path": "State-level Public Service Commission exams offer an alternative route to equivalent state cadre positions",
+            "skills_required": "Communication | Time Management",
+            "government_jobs": "UPSC | State PSC | SSC | Police Service | Judiciary | IPS | IAS",
+            "study_abroad_courses": "MA Public Policy (Harvard Kennedy/LSE) | MPA | MA International Relations",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b96L\u2013\u20b924L/yr",
+            "demand_score": 6,
+            "future_scope": "Growing demand as think tanks, government bodies, and multilateral organizations increasingly rely on data-driven policy research in India.",
+            "analytical_required": 0.6,
+            "numerical_required": 0.5,
+            "creativity_required": 0.3,
+            "communication_required": 0.6,
+            "social_required": 0.6,
+            "attention_required": 0.7,
+            "persistence_required": 0.4,
+            "postgraduate_options": "Not required for entry, but a Master's degree (e.g. MPA, Public Policy) benefits promotion and specialization",
+            "phd_options": "PhD in Public Administration/Policy \u2014 relevant mainly for policy research and academic roles, not a service requirement",
+            "certifications": "No external certification required; selection is via competitive examination and departmental training",
+            "career_levels": "Junior Public Policy Analyst (0-2 yrs) \u2192 Public Policy Analyst (2-5 yrs) \u2192 Senior Public Policy Analyst (5-10 yrs) \u2192 Lead / Principal Public Policy Analyst (10+ yrs)",
+            "top_companies": "Government of India (concerned Ministry/Department) | State Government Departments | Public Sector Undertakings",
+            "entrance_exams": "UPSC Civil Services Examination | SSC CGL | State Public Service Commission exams (as applicable)",
+            "key_skills": "Communication | Time Management"
+          }
+        },
+        {
+          "rank": 3,
+          "career": "Lawyer / Advocate",
+          "details": null
+        },
+        {
+          "rank": 4,
+          "career": "Judge",
+          "details": null
+        },
+        {
+          "rank": 5,
+          "career": "Legal Advisor",
+          "details": {
+            "Category": "Law",
+            "required_stream": "Arts / Humanities / Commerce",
+            "required_subjects_12th": "Political Science",
+            "degree": "BA LLB",
+            "alternative_path": "3-year LLB after any bachelor's degree (in addition to the 5-year integrated LLB after Class 12)",
+            "skills_required": "Microsoft Excel | Communication | Critical Thinking",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "LLM International Law (NYU/LSE/Oxford) | LLM Corporate Law | LLM Human Rights",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b940L/yr",
+            "demand_score": 6,
+            "future_scope": "Outlook is strong given increasing corporate litigation, M&A activity, and regulatory complexity across sectors like fintech and data privacy.",
+            "analytical_required": 0.8,
+            "numerical_required": 0.4,
+            "creativity_required": 0.4,
+            "communication_required": 0.9,
+            "social_required": 0.6,
+            "attention_required": 0.9,
+            "persistence_required": 0.8,
+            "postgraduate_options": "LLM (Master of Laws) in the relevant specialization",
+            "phd_options": "PhD in Law (for academic and research careers)",
+            "certifications": "Enrollment with the Bar Council of India (or relevant national bar) is mandatory to practice",
+            "career_levels": "Junior Legal Advisor / In-House Counsel (0-2 yrs) \u2192 Legal Advisor / In-House Counsel (2-5 yrs) \u2192 Senior Legal Advisor / In-House Counsel (5-10 yrs) \u2192 Lead / Principal Legal Advisor / In-House Counsel (10+ yrs)",
+            "top_companies": "AZB & Partners | Cyril Amarchand Mangaldas | Khaitan & Co | Trilegal | Luthra and Luthra Law Offices",
+            "entrance_exams": "CLAT | AILET | LSAT India (for law school admission)",
+            "key_skills": "Microsoft Excel | Communication | Critical Thinking"
+          }
+        }
+      ]
+    },
+    "courses": {
+      "request": {
+        "field_filter": "Engineering",
+        "grade_math": 85,
+        "grade_science": 85,
+        "grade_lang": 85,
+        "grade_social": 85,
+        "grade_cs": 85,
+        "score_analytical": 85,
+        "score_numeric": 85,
+        "score_verbal": 85,
+        "score_creative": 85,
+        "score_social": 85,
+        "hobby_coding": 1,
+        "hobby_gaming": 0,
+        "hobby_reading": 0,
+        "hobby_writing": 0,
+        "hobby_music": 0,
+        "hobby_drawing_art": 0,
+        "hobby_sports": 0,
+        "hobby_cooking": 0,
+        "hobby_photography": 0,
+        "hobby_travel": 0,
+        "hobby_science_experiments": 0,
+        "hobby_volunteering": 0,
+        "hobby_debating": 0,
+        "hobby_robotics": 1,
+        "hobby_fashion": 0,
+        "hobby_business_trading": 0
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "course": "BEng Software Engineering",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 2,
+          "course": "BEng Computer Engineering",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 3,
+          "course": "Graduate Diploma in Robotics Engineering",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 4,
+          "course": "BEng Mechanical Engineering",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 5,
+          "course": "PhD Civil Engineering",
+          "details": null,
+          "details_available": false
+        }
+      ]
+    }
+  },
+  {
+    "careers": {
+      "request": {
+        "field_filter": "Aviation",
+        "hobbies": [],
+        "grades": {
+          "grade_math": 100,
+          "grade_science": 100,
+          "grade_lang": 100,
+          "grade_social": 100,
+          "grade_cs": 100
+        },
+        "scores": {
+          "score_analytical": 100,
+          "score_numeric": 100,
+          "score_verbal": 100,
+          "score_creative": 100,
+          "score_social": 100
+        }
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "career": "Aircraft Maintenance Engineer",
+          "details": {
+            "Category": "Aviation",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Physics | Mathematics",
+            "degree": "B.Tech Aeronautical Engineering + AME License",
+            "alternative_path": "Direct-entry vocational training and on-the-job certification for ground/operations roles, without a full degree",
+            "skills_required": "Time Management",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Aviation Management | ATPL | EASA CPL | FAA ATP certification",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b98L\u2013\u20b935L/yr",
+            "demand_score": 6,
+            "future_scope": "Growth is being driven by airline fleet expansion, new airport infrastructure, and the boom in e-commerce logistics and last-mile delivery.",
+            "analytical_required": 0.7,
+            "numerical_required": 0.6,
+            "creativity_required": 0.3,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.9,
+            "persistence_required": 0.3,
+            "postgraduate_options": "MBA in Logistics/Aviation/Supply Chain Management",
+            "phd_options": "PhD in Transportation/Logistics Management \u2014 uncommon, relevant mainly for academic/research careers",
+            "certifications": "DGCA AME License",
+            "career_levels": "Junior Aircraft Maintenance Engineer (0-2 yrs) \u2192 Aircraft Maintenance Engineer (2-5 yrs) \u2192 Senior Aircraft Maintenance Engineer (5-10 yrs) \u2192 Lead / Principal Aircraft Maintenance Engineer (10+ yrs)",
+            "top_companies": "Air India Engineering Services | IndiGo | GMR Aero Technic | Boeing India | Airbus India",
+            "entrance_exams": "DGCA AME entrance exam",
+            "key_skills": "Time Management"
+          }
+        },
+        {
+          "rank": 2,
+          "career": "Pilot",
+          "details": null
+        },
+        {
+          "rank": 3,
+          "career": "UI/UX Designer",
+          "details": {
+            "Category": "Technology",
+            "required_stream": "Science (PCM) / Arts / Humanities",
+            "required_subjects_12th": "Design | Computer Science",
+            "degree": "B.Des | B.Tech Computer Science Engineering",
+            "alternative_path": "Self-taught/bootcamp route with a strong project portfolio and GitHub profile; many companies hire without a formal CS degree if skills are demonstrated",
+            "skills_required": "Figma | Communication | Time Management",
+            "government_jobs": "limited",
+            "study_abroad_courses": "MS Computer Science (MIT/Stanford/CMU) | MS Data Science | MS Artificial Intelligence | MS Software Engineering",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b95L\u2013\u20b928L/yr",
+            "demand_score": 5,
+            "future_scope": "Strong demand as companies prioritize user experience, though AI design tools are automating basic tasks, pushing the role toward strategic and research-driven design work.",
+            "analytical_required": 0.4,
+            "numerical_required": 0.2,
+            "creativity_required": 0.9,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.6,
+            "persistence_required": 0.3,
+            "postgraduate_options": "M.Des in Interaction/UX Design",
+            "phd_options": "PhD in Computer Science / relevant specialization (via institutes such as IITs, IISc, or top global universities)",
+            "certifications": "Google UX Design Certificate",
+            "career_levels": "Junior UI/UX Designer (0-2 yrs) \u2192 UI/UX Designer (2-5 yrs) \u2192 Senior UI/UX Designer (5-10 yrs) \u2192 Lead / Principal UI/UX Designer (10+ yrs)",
+            "top_companies": "Google | Microsoft | Swiggy | Zomato | Flipkart",
+            "entrance_exams": "JEE Main (for B.Tech admission) | GATE (for M.Tech/PSU jobs)",
+            "key_skills": "Figma | Communication | Time Management"
+          }
+        },
+        {
+          "rank": 4,
+          "career": "Air Traffic Controller",
+          "details": {
+            "Category": "Aviation",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Physics | Mathematics",
+            "degree": "B.Sc + ATC Training",
+            "alternative_path": "Direct-entry vocational training and on-the-job certification for ground/operations roles, without a full degree",
+            "skills_required": "Time Management",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Aviation Management | ATPL | EASA CPL | FAA ATP certification",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b98L\u2013\u20b935L/yr",
+            "demand_score": 6,
+            "future_scope": "Steady, secure demand tied to airport expansion and rising air traffic volumes, with limited but stable recruitment through AAI.",
+            "analytical_required": 0.7,
+            "numerical_required": 0.6,
+            "creativity_required": 0.3,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.9,
+            "persistence_required": 0.3,
+            "postgraduate_options": "MBA in Logistics/Aviation/Supply Chain Management",
+            "phd_options": "PhD in Transportation/Logistics Management \u2014 uncommon, relevant mainly for academic/research careers",
+            "certifications": "DGCA Air Traffic Controller License",
+            "career_levels": "Junior Air Traffic Controller (0-2 yrs) \u2192 Air Traffic Controller (2-5 yrs) \u2192 Senior Air Traffic Controller (5-10 yrs) \u2192 Lead / Principal Air Traffic Controller (10+ yrs)",
+            "top_companies": "Airports Authority of India (AAI)",
+            "entrance_exams": "Airports Authority of India (AAI) recruitment exam",
+            "key_skills": "Time Management"
+          }
+        },
+        {
+          "rank": 5,
+          "career": "Flight Dispatcher",
+          "details": {
+            "Category": "Aviation",
+            "required_stream": "Science (PCM)",
+            "required_subjects_12th": "Physics | Mathematics",
+            "degree": "B.Sc + Flight Dispatcher Certification",
+            "alternative_path": "Direct-entry vocational training and on-the-job certification for ground/operations roles, without a full degree",
+            "skills_required": "Time Management",
+            "government_jobs": "Moderate govt opportunities | State/Central Govt departments",
+            "study_abroad_courses": "MS Aviation Management | ATPL | EASA CPL | FAA ATP certification",
+            "study_abroad_countries": "USA | UK | Canada | Australia | Germany",
+            "salary_range_india": "\u20b98L\u2013\u20b935L/yr",
+            "demand_score": 6,
+            "future_scope": "Outlook remains strong, particularly for technical and operational aviation roles, as airlines expand capacity to meet rising travel demand.",
+            "analytical_required": 0.7,
+            "numerical_required": 0.6,
+            "creativity_required": 0.3,
+            "communication_required": 0.6,
+            "social_required": 0.5,
+            "attention_required": 0.9,
+            "persistence_required": 0.3,
+            "postgraduate_options": "MBA in Logistics/Aviation/Supply Chain Management",
+            "phd_options": "PhD in Transportation/Logistics Management \u2014 uncommon, relevant mainly for academic/research careers",
+            "certifications": "DGCA license (for flight/technical roles) or relevant industry certification (e.g. IATA) is essential",
+            "career_levels": "Junior Flight Dispatcher (0-2 yrs) \u2192 Flight Dispatcher (2-5 yrs) \u2192 Senior Flight Dispatcher (5-10 yrs) \u2192 Lead / Principal Flight Dispatcher (10+ yrs)",
+            "top_companies": "IndiGo | Air India | DHL | Maersk | Adani Ports and SEZ",
+            "entrance_exams": "DGCA CPL ground exams (for pilots) | Institute-specific entrance for logistics/aviation management programs",
+            "key_skills": "Time Management"
+          }
+        }
+      ]
+    },
+    "courses": {
+      "request": {
+        "field_filter": "Law",
+        "grade_math": 100,
+        "grade_science": 100,
+        "grade_lang": 100,
+        "grade_social": 100,
+        "grade_cs": 100,
+        "score_analytical": 100,
+        "score_numeric": 100,
+        "score_verbal": 100,
+        "score_creative": 100,
+        "score_social": 100,
+        "hobby_coding": 0,
+        "hobby_gaming": 0,
+        "hobby_reading": 0,
+        "hobby_writing": 0,
+        "hobby_music": 0,
+        "hobby_drawing_art": 0,
+        "hobby_sports": 0,
+        "hobby_cooking": 0,
+        "hobby_photography": 0,
+        "hobby_travel": 0,
+        "hobby_science_experiments": 0,
+        "hobby_volunteering": 0,
+        "hobby_debating": 0,
+        "hobby_robotics": 0,
+        "hobby_fashion": 0,
+        "hobby_business_trading": 0
+      },
+      "recommendations": [
+        {
+          "rank": 1,
+          "course": "LLM Law",
+          "details": {
+            "major": "Law",
+            "degree_name": "Master of Laws (LLM)",
+            "program_level": "Master's Degree",
+            "field": "Law",
+            "eligible_stream_or_degree": "LLB",
+            "analytical_score": 8,
+            "math_score": 6,
+            "creativity_score": 5,
+            "communication_score": 6,
+            "social_score": 5,
+            "demand_score": 6,
+            "estimated_salary": "\u20b94L\u2013\u20b920L/yr"
+          },
+          "details_available": true
+        },
+        {
+          "rank": 2,
+          "course": "LLM Corporate Law",
+          "details": {
+            "major": "Corporate Law",
+            "degree_name": "Master of Laws (LLM) in Corporate Law",
+            "program_level": "Master's Degree",
+            "field": "Law",
+            "eligible_stream_or_degree": "LLB",
+            "analytical_score": 8,
+            "math_score": 6,
+            "creativity_score": 5,
+            "communication_score": 6,
+            "social_score": 5,
+            "demand_score": 6,
+            "estimated_salary": "\u20b94L\u2013\u20b920L/yr"
+          },
+          "details_available": true
+        },
+        {
+          "rank": 3,
+          "course": "LLB International Law",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 4,
+          "course": "MSc Journalism",
+          "details": null,
+          "details_available": false
+        },
+        {
+          "rank": 5,
+          "course": "BSc Media Studies",
+          "details": null,
+          "details_available": false
+        }
+      ]
+    }
+  }
+]

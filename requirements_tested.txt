@@ -1,0 +1,10 @@
+# Direct dependency versions used in the integration checks.
+fastapi==0.141.1
+uvicorn==0.52.4
+pydantic==2.13.5
+numpy==2.5.3
+pandas==2.3.3
+scikit-learn==1.8.0
+joblib==1.6.0
+xgboost==3.4.1
+catboost==1.2.10

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Qwen / LLM models
+models/chatbot/*.gguf
+models/chatbot/*.bin
+models/chatbot/*.safetensors
+models/chatbot/*.pt
+models/chatbot/*.pth
+
+# Large ML models
+models/**/*.pkl
+models/**/*.joblib
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
