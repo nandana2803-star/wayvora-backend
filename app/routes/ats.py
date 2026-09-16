@@ -307,32 +307,9 @@ def prepare_resume_upload(
             )
 
         except ResumeServiceError as exc:
-            if exc.status_code == 413:
-                message = (
-                    "The job description is too long for Qwen's current "
-                    "context limit. Keep the responsibilities and "
-                    "requirements, then try again. No text was "
-                    "shortened automatically."
-                )
-
-            elif exc.status_code == 503:
-                message = (
-                    "Qwen is unavailable or busy. Make sure your "
-                    "local model is running on port 8081, then try again."
-                )
-
-            elif exc.status_code == 504:
-                message = (
-                    "Qwen took too long to extract keywords. "
-                    "Try a shorter job description."
-                )
-
-            else:
-                message = exc.message
-
             raise HTTPException(
                 status_code=exc.status_code,
-                detail=message,
+                detail=str(exc),
             ) from exc
 
         warnings.extend(keyword_warnings)
